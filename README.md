@@ -50,5 +50,6 @@ Couch Front view:
 Couch Back view: 
 ![image](https://github.com/user-attachments/assets/496ca7b2-d187-4116-9fe3-11c495bda66e)
 Lamp View: 
+
 ![image](https://github.com/user-attachments/assets/ee61dc53-61e2-4509-8a6c-e70a7f4fc504)
 
